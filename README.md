@@ -1,86 +1,97 @@
-<h1 align="center">Shubham Shukla</h1>
-<h3 align="center">Full Stack Engineer • MERN Stack • 1.7+ Years Experience</h3>
+<h1 align="center">Hi 👋, I'm Shubham Shukla</h1>
+<h3 align="center">Full Stack Engineer | 1.7+ Years Experience | MERN Stack Specialist</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/shubham.shukla8874">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shubshuka4i2">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+---
+
+### 🚀 About Me
+
+* 💼 Full Stack Engineer with **1.7+ years of hands-on experience**
+* 🌐 Specialized in building scalable web applications using **MERN Stack**
+* ⚡ Strong focus on **performance, clean UI, and real-world problem solving**
+* 🧠 Passionate about learning new technologies and improving system design
+* 🎯 Currently exploring **advanced backend architecture & system design**
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shubham shukla" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/shubham.shukla8874" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/shubshuka4i2" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-### 🧑‍💻 About
+### 🛠️ Tech Stack
 
-I’m a **Full Stack Engineer** with 1.7+ years of experience building scalable and high-performance web applications.
+#### 💻 Frontend
 
-* ⚙️ Specialized in **MERN Stack (MongoDB, Express, React, Node.js)**
-* 🚀 Experience in **E-commerce, Dashboards, and API-driven systems**
-* 🎯 Strong focus on **clean architecture, performance & UX**
-* 🧠 Currently learning **System Design & scalable backend patterns**
+* React.js, Next.js, Redux
+* Tailwind CSS, Bootstrap
+* HTML5, CSS3, JavaScript (ES6+)
+
+#### ⚙️ Backend
+
+* Node.js, Express.js
+* REST API Development
+* Authentication & Authorization (JWT, OAuth)
+
+#### 🗄️ Database
+
+* MongoDB, MySQL
+
+#### 🧰 Tools & Others
+
+* Git & GitHub
+* Postman
+* Stripe / Razorpay Integration
+* Deployment & Hosting
 
 ---
 
-### ⚡ Tech Stack
+### 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamaaaa&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,js,html,css,tailwind,redux,git,github,postman" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamaaaa&theme=tokyonight" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamaaaa&show_icons=true&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub Insights
+### 💡 Highlight Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamaaaa&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamaaaa&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamaaaa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+* 🛒 Full Stack E-commerce Platform (MERN + Payment Integration)
+* 🎧 Spotify Clone (Full Stack)
+* 🧑‍💼 Job Portal (React + Backend APIs)
+* 📅 Appointment Booking System
+* 📦 Shopify Custom UI & Features
 
 ---
 
-### 🚀 Featured Work
+### ⚡ Fun Fact
 
-* 🛒 **E-commerce Platform** – Full stack with Razorpay & Stripe integration
-* 🎧 **Spotify Clone** – MERN-based music streaming UI
-* 🧑‍💼 **Job Portal** – Authentication, filters, and dynamic listings
-* 📅 **Appointment Booking System** – Scalable backend + clean UI
-* 🛍️ **Shopify Custom Development** – Advanced UI & metafields
-
----
-
-### 🧠 What I Bring
-
-* Clean & maintainable code
-* Strong API design skills
-* Real-world project experience
-* Problem-solving mindset
+> I turn ☕ coffee into scalable web applications 😄
 
 ---
 
 ### 📈 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamaaaa&style=flat-square&color=blue" />
-</p>
-
----
-
-### ✨ Quote
-
-<p align="center">
-  <i>"Building products that are fast, scalable, and user-focused."</i>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=shubhamaaaa&label=Profile%20views&color=0e75b6&style=flat" />
 </p>

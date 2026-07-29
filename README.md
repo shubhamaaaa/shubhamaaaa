@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-* 💼 Full Stack Engineer with **1.7+ years of hands-on experience**
+* 💼 Full Stack Engineer with **2+ years of hands-on experience**
 * 🌐 Specialized in building scalable web applications using **MERN Stack**
 * ⚡ Strong focus on **performance, clean UI, and real-world problem solving**
 * 🧠 Passionate about learning new technologies and improving system design
